@@ -1,0 +1,2 @@
+16:12:31 : ERROR:type object 'datetime.time' has no attribute 'sleep'
+16:38:31 : ERROR:can only concatenate str (not "numpy.float64") to str
